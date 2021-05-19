@@ -2,7 +2,6 @@
 ***
 An automated fake news detection website that can perform the following
 tasks: <br />
-● Check the news source's authenticity by providing fake news% <br />
 ● Check whether the title of the news is accurate. <br />
 ● Check whether the text/content of the news is accurate.
 ***
