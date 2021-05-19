@@ -1,3 +1,4 @@
+***
 # Fake News Detection 
 ***
 An automated fake news detection website that can perform the following
@@ -33,6 +34,7 @@ Add an Article in the text area (Short titles can also be predicted as well as l
 You can give multiple inputs too.
 ***
 ## Contributors
+***
 <table>
 	<tr>
 		<td align="center">
@@ -61,5 +63,4 @@ You can give multiple inputs too.
 		</td>
 	</tr>
 </table>
-</ br>
-***
+<hr>
