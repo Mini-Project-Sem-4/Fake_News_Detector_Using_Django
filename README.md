@@ -35,11 +35,30 @@ You can give multiple inputs too.
 ## Contributors
 <table>
 	<tr>
-            <td>
-		<a href="https://github.com/Mini-Project-Sem-4/Fake_News_Detector_Using_Django/graphs/contributors">
-  			<img src="https://contrib.rocks/image?repo=Mini-Project-Sem-4/Fake_News_Detector_Using_Django" />
-		</a>
-	    </td>
+		<td align="center">
+			<a href="https://github.com/Ash515"> 
+				<img src="https://avatars.githubusercontent.com/u/59429408" width="100px" alt="" /><br /> 
+				<sub><b>Nimish Samant</b></sub> 
+			</a>
+		</td>
+		<td align="center">
+			<a href="https://github.com/Ash515"> 
+				<img src="https://avatars.githubusercontent.com/u/59429408" width="100px" alt="" /><br /> 
+				<sub><b>Nimish Samant</b></sub> 
+			</a>
+		</td>
+		<td align="center">
+			<a href="https://github.com/Ash515"> 
+				<img src="https://avatars.githubusercontent.com/u/59429408" width="100px" alt="" /><br /> 
+				<sub><b>Nimish Samant</b></sub> 
+			</a>
+		</td>
+		<td align="center">
+			<a href="https://github.com/Ash515"> 
+				<img src="https://avatars.githubusercontent.com/u/59429408" width="100px" alt="" /><br /> 
+				<sub><b>Nimish Samant</b></sub> 
+			</a>
+		</td>
 	</tr>
 </table>
-***
+
