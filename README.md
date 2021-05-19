@@ -44,9 +44,9 @@ You can give multiple inputs too.
 			</a>
 		</td>
 		<td align="center">
-			<a href="https://github.com/realhunter7869"> 
-				<img src="https://avatars.githubusercontent.com/u/59429408" width="100px" alt="" /><br /> 
-				<sub><b>Nimish Samant</b></sub> 
+			<a href="https://github.com/anuragbapat10"> 
+				<img src="https://avatars.githubusercontent.com/u/68067079" width="100px" alt="" /><br /> 
+				<sub><b>Anurag Bapat</b></sub> 
 			</a>
 		</td>
 		<td align="center">
