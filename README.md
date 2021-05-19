@@ -32,3 +32,14 @@ Add an Article in the text area (Short titles can also be predicted as well as l
 #### Two or more arguments can also be passed simultaneously:
 You can give multiple inputs too.
 ***
+## Contributors
+<table>
+	<tr>
+            <td>
+		<a href="https://github.com/Mini-Project-Sem-4/Fake_News_Detector_Using_Django/graphs/contributors">
+  			<img src="https://contrib.rocks/image?repo=Mini-Project-Sem-4/Fake_News_Detector_Using_Django" />
+		</a>
+	    </td>
+	</tr>
+</table>
+***
