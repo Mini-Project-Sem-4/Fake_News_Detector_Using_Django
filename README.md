@@ -38,25 +38,25 @@ You can give multiple inputs too.
 <table>
 	<tr>
 		<td align="center">
-			<a href="https://github.com/Ash515"> 
+			<a href="https://github.com/realhunter7869"> 
 				<img src="https://avatars.githubusercontent.com/u/59429408" width="100px" alt="" /><br /> 
 				<sub><b>Nimish Samant</b></sub> 
 			</a>
 		</td>
 		<td align="center">
-			<a href="https://github.com/Ash515"> 
+			<a href="https://github.com/realhunter7869"> 
 				<img src="https://avatars.githubusercontent.com/u/59429408" width="100px" alt="" /><br /> 
 				<sub><b>Nimish Samant</b></sub> 
 			</a>
 		</td>
 		<td align="center">
-			<a href="https://github.com/Ash515"> 
+			<a href="https://github.com/realhunter7869"> 
 				<img src="https://avatars.githubusercontent.com/u/59429408" width="100px" alt="" /><br /> 
 				<sub><b>Nimish Samant</b></sub> 
 			</a>
 		</td>
 		<td align="center">
-			<a href="https://github.com/Ash515"> 
+			<a href="https://github.com/realhunter7869"> 
 				<img src="https://avatars.githubusercontent.com/u/59429408" width="100px" alt="" /><br /> 
 				<sub><b>Nimish Samant</b></sub> 
 			</a>
