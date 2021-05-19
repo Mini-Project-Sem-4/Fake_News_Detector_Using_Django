@@ -1,0 +1,61 @@
+body {
+    font-family: 'Montserrat';
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+h1 {
+    color: white;
+}
+.coloured-section {
+    background-color: #000;
+}
+#main .container-fluid {
+    padding: 3% 5% 7%;
+    background-image: url("https://coolbackgrounds.io/images/backgrounds/index/compute-ea4c57a4.png");
+}
+.title {
+    padding-top: 7%;
+    padding-bottom: 10%;
+    text-align: center;
+    color: #fff;
+}
+a {
+    font-family: 'Ubuntu';
+    font-size: 3rem;
+    
+}
+.big-heading {
+    text-align: center;
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 4rem;
+    color: #5bc0de;
+    padding: 20%;
+}
+.accuracy {
+    padding-top: 4%;
+}
+.form-rounded {
+    border-radius: 2rem;
+}
+.text {
+    text-align: center;
+    font-size: 1.5rem;
+}
+.text::placeholder {
+    text-align: center;
+    font-family: "Montserrat";
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+.submit-button {
+    margin-top: 5%;
+    padding: 10%;
+}
+
+#result {
+  padding: 5% 10%;
+}
