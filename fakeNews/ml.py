@@ -46,7 +46,7 @@ def classifier(title=None, text=None):
         url = "https://contextualwebsearch-websearch-v1.p.rapidapi.com/api/search/NewsSearchAPI"
 
         headers = {
-	        "x-rapidapi-key": "b90c1f0181msh231377716aad1bap1c26f6jsnf5150dfc5720",
+	        "x-rapidapi-key": "b1848a82b8mshbcc6991d729f123p1bb4d0jsn0345735c0338",
 	        "x-rapidapi-host": "contextualwebsearch-websearch-v1.p.rapidapi.com"
         }
 
